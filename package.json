@@ -142,8 +142,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/remotelock/react-week-scheduler.git"
-  },
-  "engines": {
-    "node": ">=10.13.0"
   }
 }
